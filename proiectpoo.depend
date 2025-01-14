@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1736836585 source:c:\users\edwardo_247\documents\codeblocks\poocodeblocks\proiectpoo\main.c
+	<stdio.h>
+	"proiectpoo.h"
+
+1736799852 c:\users\edwardo_247\documents\codeblocks\poocodeblocks\proiectpoo\proiectpoo.h
+	<stdbool.h>
+
+1736800292 source:c:\users\edwardo_247\documents\codeblocks\poocodeblocks\proiectpoo\proiectpoo.c
+	<stdio.h>
+	<string.h>
+	"proiectpoo.h"
+
